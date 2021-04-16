@@ -3,4 +3,5 @@ Feature: Hear shout
     Given Lucy is located 15 metres from Sean
     When Sean shouts "free bagels at Sean's"
     Then Lucy hears Sean's message
-    Then allis well with the world
+    Then all is well with the world
+    Then i'll try something else
